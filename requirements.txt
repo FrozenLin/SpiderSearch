@@ -1,0 +1,9 @@
+Django==1.11
+elasticsearch==5.2.0
+elasticsearch-dsl==5.1.0
+ipaddress==1.0.22
+python-dateutil==2.7.2
+pytz==2018.4
+redis==2.10.6
+six==1.11.0
+urllib3==1.22
